@@ -14,7 +14,8 @@ To run this project:
 This project uses the TMDB 5000 Movie Dataset.
 
 Download it from:
-👉 TMDB 5000 Movie Dataset
+[👉 TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
 
 After downloading, place these files in the project folder:
 
