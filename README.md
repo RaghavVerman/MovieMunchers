@@ -10,3 +10,13 @@ To run this project:
 1. Run the notebook to generate model files
 2. Then run:
    streamlit run main.py
+
+This project uses the TMDB 5000 Movie Dataset.
+
+Download it from:
+👉 TMDB 5000 Movie Dataset
+
+After downloading, place these files in the project folder:
+
+movies.csv
+credits.csv
